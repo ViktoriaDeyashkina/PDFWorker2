@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PDFWorker2:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="PDFWorker2.jar">
+      <element id="module-output" name="PDFWorker2" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/библиотеки/itextpdf-5.5.13.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
