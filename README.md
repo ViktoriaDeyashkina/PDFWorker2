@@ -1,2 +1,2 @@
 # PDFWorker2
-Simple tool to split and join pdf files
+Простая программа чтобы объединять и разрезать pdf файлы.
